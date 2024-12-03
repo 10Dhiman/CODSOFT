@@ -1,5 +1,5 @@
 # CODSOFT_C++ Internship
-During This Internship I lernt more about C++, and doing this tasks boosts my Probelm solving skills.
+During This Internship I lernt more about C++, and doing this tasks boost my Probelm solving skills.
 
 I completed 3 Tasks given by CODSOFT:-
 
